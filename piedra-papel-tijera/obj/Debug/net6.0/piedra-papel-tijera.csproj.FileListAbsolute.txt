@@ -1,0 +1,15 @@
+C:\Users\vigir\Downloads\piedra-papel-tijera\bin\Debug\net6.0\piedra-papel-tijera.exe
+C:\Users\vigir\Downloads\piedra-papel-tijera\bin\Debug\net6.0\piedra-papel-tijera.deps.json
+C:\Users\vigir\Downloads\piedra-papel-tijera\bin\Debug\net6.0\piedra-papel-tijera.runtimeconfig.json
+C:\Users\vigir\Downloads\piedra-papel-tijera\bin\Debug\net6.0\piedra-papel-tijera.dll
+C:\Users\vigir\Downloads\piedra-papel-tijera\bin\Debug\net6.0\piedra-papel-tijera.pdb
+C:\Users\vigir\Downloads\piedra-papel-tijera\obj\Debug\net6.0\piedra-papel-tijera.csproj.AssemblyReference.cache
+C:\Users\vigir\Downloads\piedra-papel-tijera\obj\Debug\net6.0\piedra-papel-tijera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vigir\Downloads\piedra-papel-tijera\obj\Debug\net6.0\piedra-papel-tijera.AssemblyInfoInputs.cache
+C:\Users\vigir\Downloads\piedra-papel-tijera\obj\Debug\net6.0\piedra-papel-tijera.AssemblyInfo.cs
+C:\Users\vigir\Downloads\piedra-papel-tijera\obj\Debug\net6.0\piedra-papel-tijera.csproj.CoreCompileInputs.cache
+C:\Users\vigir\Downloads\piedra-papel-tijera\obj\Debug\net6.0\piedra-papel-tijera.dll
+C:\Users\vigir\Downloads\piedra-papel-tijera\obj\Debug\net6.0\refint\piedra-papel-tijera.dll
+C:\Users\vigir\Downloads\piedra-papel-tijera\obj\Debug\net6.0\piedra-papel-tijera.pdb
+C:\Users\vigir\Downloads\piedra-papel-tijera\obj\Debug\net6.0\piedra-papel-tijera.genruntimeconfig.cache
+C:\Users\vigir\Downloads\piedra-papel-tijera\obj\Debug\net6.0\ref\piedra-papel-tijera.dll

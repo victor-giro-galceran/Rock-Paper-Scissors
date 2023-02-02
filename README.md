@@ -12,7 +12,7 @@ The program features a main menu with the following options:
 Choose "Play" from the main menu.
 Select either "Rock", "Paper", or "Scissors".
 The computer will make its move and the winner will be determined according to Rock-Paper-Scissors rules.
-Check the result and return to the main menu.
+Check the result and play again until you hit enter.
 
 ## Difficulty
 You can change the difficulty of the computer opponent in the "Change Difficulty" option of the main menu. Multiple difficulty levels are available, each with its unique strategy.

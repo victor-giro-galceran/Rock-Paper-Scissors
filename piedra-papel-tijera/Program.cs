@@ -3,9 +3,8 @@ using System.Threading;
 using System.Collections.Generic;
 using System.ComponentModel.Design;
 
-namespace piedra_papel_tijera
-{
-
+namespace piedra_papel_tijera {
+    
     class Program {
 
         static void Main(string[] args) {
@@ -15,7 +14,7 @@ namespace piedra_papel_tijera
         }
 
 
-        static void Menu(){
+        static void Menu() {
 
             int rondas = 0;
 

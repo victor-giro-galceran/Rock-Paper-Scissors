@@ -4,9 +4,14 @@ A C# program that lets you play the classic game of Rock-Paper-Scissors against 
 ## Main Menu
 The program features a main menu with the following options:
 
-1. Play: Start a game of Rock-Paper-Scissors.
-2. Change Difficulty: Adjust the difficulty level of the computer opponent.
-3. Show Statistics: View your win-loss record and win percentage against the computer.
+### 1. Play 
+Start a game of Rock-Paper-Scissors.
+
+### 2. Change Difficulty
+Adjust the difficulty level of the computer opponent.
+
+### 3. Show Statistics: 
+View your win-loss record and win percentage against the computer.
 
 ## How to Play
 Choose "Play" from the main menu.
